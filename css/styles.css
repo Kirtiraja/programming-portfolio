@@ -3,13 +3,16 @@ img {
   height: 600px;
   border-radius: 75%;
 }
-h2 {
-  border: 1px solid purple
-  padding: 5px;
-}
+
 .col-md-4 {
   border:2px solid purple;
   background-color: #98f5ed;
   padding: 4px;
   margin: 12px;
+}
+.col-md-4 h2 {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-style: italic;
+
 }
