@@ -6,7 +6,7 @@
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This Portfolio website introduces me, Kirtiraja Zakheim, to the reader with a link of coding projects I have completed to-date at my first week of coding bootcamp at Epicodus. There is also a section at the bottom briefly describing my personal background and interests.This simple website was created using HTML, CSS, and Bootstrap._
 
 ## Setup/Installation Requirements
 
