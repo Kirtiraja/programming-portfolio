@@ -3,3 +3,10 @@ img {
   height: 600px;
   border-radius: 75%;
 }
+h2 {
+  border: 1px solid purple
+  padding: 5px;
+}
+div.col-md-4 {
+  background-color: gray;
+}
