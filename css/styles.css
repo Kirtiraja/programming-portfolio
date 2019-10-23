@@ -5,16 +5,16 @@ img {
   border-radius: 15%;
 }
 
-.col-md-4 {
+/* .col-md-4 {
   border:2px solid purple;
   background-color: #aed4c9;
   padding: 4px;
-  margin: 12px;
+  margin: 5px; */
 }
-.col-md-4 h2 {
+/* .col-md-4 h2 {
   font-family: sans-serif;
   font-weight: bold;
-  font-style: italic;
+  font-style: italic; */
 
 }
 .goober li {
