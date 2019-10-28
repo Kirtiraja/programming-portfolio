@@ -13,11 +13,11 @@ _This Portfolio website introduces me, Kirtiraja Zakheim, to the reader with a l
 * _Open file with a web browser of your choice such as Chrome_
 * _Click links to see individual projects_
 
-_[Click anywhere in this sentence to see this project website] (https://kirtiraja.github.io/programming-portfolio/)_
+_Link to project:  (https://kirtiraja.github.io/programming-portfolio/)_
 
 ## Known Bugs
 
-_No know bugs._
+_No known bugs._
 
 ## Support and contact details
 
