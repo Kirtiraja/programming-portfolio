@@ -2,7 +2,7 @@
 
 #### _Website Portfolio of Epicodus Lessons to-date, October 18,2019_
 
-#### By _**Kirtiraja Zakheim et al**_
+#### By _**Kirtiraja Zakheim**_
 
 ## Description
 
